@@ -1,0 +1,1 @@
+These files contain the NASA clearness indexes.  For every 1 degree latitude by 1 degree longitude, there are 12 indexes (1 for each month).  The project ImportData reads in these files and creates kt.bin, a binary table that is used by the SunEye software.

@@ -1,0 +1,377 @@
+<en,English,English>
+AL,Albania,Albania
+AD,Andorra,Andorra
+AT,Austria,Austria
+BY,Belarus,Belarus
+BE,Belgium,Belgium
+BA,Bosnia and Herzegovina,Bosnia and Herzegovina
+BG,Bulgaria,Bulgaria
+HR,Croatia,Croatia
+CY,Cyprus,Cyprus
+CZ,Czech Republic,Czech Republic
+DK,Denmark,Denmark
+EE,Estonia,Estonia
+FI,Finland,Finland
+FR,France,France
+DE,Germany,Germany
+GR,Greece,Greece
+HU,Hungary,Hungary
+IS,Iceland,Iceland
+IE,Ireland,Ireland
+IT,Italy,Italy
+LV,Latvia,Latvia
+LT,Lithuania,Lithuania
+LU,Luxembourg,Luxembourg
+MK,Macedonia,Macedonia
+MT,Malta,Malta
+ME,Montenegro,Montenegro
+NL,Netherlands,Netherlands
+NO,Norway,Norway
+PL,Poland,Poland
+PT,Portugal,Portugal
+RO,Romania,Romania
+RU,Russia,Russia
+RS,Serbia,Serbia
+SK,Slovakia,Slovakia
+SI,Slovenia,Slovenia
+ES,Spain,Spain
+SE,Sweden,Sweden
+CH,Switzerland,Switzerland
+TR,Turkey,Turkey
+UA,Ukraine,Ukraine
+GB,United Kingdom,United Kingdom
+BS,Bahamas,Bahamas
+BB,Barbados,Barbados
+BZ,Belize,Belize
+CA,Canada,Canada
+CR,Costa Rica,Costa Rica
+CU,Cuba,Cuba
+DO,Dominican Republic,Dominican Republic
+SV,El Salvador,El Salvador
+GT,Guatemala,Guatemala
+HT,Haiti,Haiti
+HN,Honduras,Honduras
+JM,Jamaica,Jamaica
+MX,Mexico,Mexico
+NI,Nicaragua,Nicaragua
+PA,Panama,Panama
+PR,Puerto Rico,Puerto Rico
+US,United States,United States
+NZ,New Zealand,New Zealand
+AU,Australia,Australia
+JP,Japan,Japan
+
+<de,Deutsch,German>
+AL,Albanien,Albania
+AD,Andorra,Andorra
+AT,Österreich,Austria
+BY,Weißrussland,Belarus
+BE,Belgien,Belgium
+BA,Bosnien und Herzegowina,Bosnia and Herzegovina
+BG,Bulgarien,Bulgaria
+HR,Kroatien,Croatia
+CZ,Tschechien,Czech Republic
+DK,Dänemark,Denmark
+EE,Estland,Estonia
+FI,Finnland,Finland
+FR,Frankreich,France
+DE,Deutschland,Germany
+GR,Griechenland,Greece
+HU,Ungarn,Hungary
+IS,Island,Iceland
+IE,Irland,Ireland
+IT,Italien,Italy
+LV,Lettland,Latvia
+LT,Litauen,Lithuania
+LU,Luxemburg,Luxembourg
+MT,Malta,Malta
+MK,Mazedonien,Macedonia
+ME,Montenegro,Montenegro
+NL,Niederlande,Netherlands
+NO,Norwegen,Norway
+PL,Polen,Poland
+PT,Portugal,Portugal
+RO,Rumänien,Romania
+RU,Russland,Russia
+RS,Serbien,Serbia
+SK,Slowakei,Slovakia
+SI,Slowenien,Slovenia
+ES,Spanien,Spain
+SE,Schweden,Sweden
+CH,Schweiz,Switzerland
+TR,Türkei,Turkey
+UA,Ukraine,Ukraine
+GB,Vereinigtes Königreich,United Kingdom
+BS,Bahamas,Bahamas
+BB,Barbados,Barbados
+BZ,Belize,Belize
+CA,Kanada,Canada
+CR,Costa Rica,Costa Rica
+CU,Kuba,Cuba
+DO,Dominikanische Republik,Dominican Republic
+SV,El Salvador,El Salvador
+GT,Guatemala,Guatemala
+HT,Haiti,Haiti
+HN,Honduras,Honduras
+JM,Jamaika,Jamaica
+MX,Mexiko,Mexico
+NI,Nicaragua,Nicaragua
+PA,Panama,Panama
+PR,Puerto Rico,Puerto Rico
+US,Vereinigte Staaten,United States
+NZ,Neuseeland,New Zealand
+AU,Australien,Australia
+CY,Zypern,Cyprus
+JP,Japan,Japan
+
+<es,Español,Spanish>
+AL,Albania,Albania
+AD,Andorra,Andorra
+AT,Austria,Austria
+BY,Bielorrusia,Belarus
+BE,Bélgica,Belgium
+BA,Bosnia y Herzegovina,Bosnia and Herzegovina
+BG,Bulgaria,Bulgaria
+HR,Croacia,Croatia
+CY,Chipre,Cyprus
+CZ,República Checa,Czech Republic
+DK,Dinamarca,Denmark
+EE,Estonia,Estonia
+FI,Finlandia,Finland
+FR,Francia,France
+DE,Alemania,Germany
+GR,Grecia,Greece
+HU,Hungría,Hungary
+IS,Islandia,Iceland
+IE,Irlanda,Ireland
+IT,Italia,Italy
+LV,Letonia,Latvia
+LT,Lituania,Lithuania
+LU,Luxemburgo,Luxembourg
+MK,Macedonia,Macedonia
+MT,Malta,Malta
+ME,Montenegro,Montenegro
+NL,Países Bajos,Netherlands
+NO,Noruega,Norway
+PL,Polonia,Poland
+PT,Portugal,Portugal
+RO,Rumania,Romania
+RU,Rusia,Russia
+RS,Serbia,Serbia
+SK,Eslovaquia,Slovakia
+SI,Eslovenia,Slovenia
+ES,España,Spain
+SE,Suecia,Sweden
+CH,Suiza,Switzerland
+TR,Turquía,Turkey
+UA,Ucrania,Ukraine
+GB,Reino Unido,United Kingdom
+BS,Bahamas,Bahamas
+BB,Barbados,Barbados
+BZ,Belice,Belize
+CA,Canadá,Canada
+CR,Costa Rica,Costa Rica
+CU,Cuba,Cuba
+DO,República Dominicana,Dominican Republic
+SV,El Salvador,El Salvador
+GT,Guatemala,Guatemala
+HT,Haití,Haiti
+HN,Honduras,Honduras
+JM,Jamaica,Jamaica
+MX,Mexico,Mexico
+NI,Nicaragua,Nicaragua
+PA,Panamá,Panama
+PR,Puerto Rico,Puerto Rico
+US,Estados Unidos,United States
+NZ,Nueva Zelandia,New Zealand
+AU,Australia,Australia
+JP,Japón,Japan
+
+<fr,Français,French>
+AL,Albanie,Albania
+AD,Andorre,Andorra
+AT,Autriche,Austria
+BY,Bélarus,Belarus
+BE,Belgique,Belgium
+BA,Bosnie-Herzégovine,Bosnia and Herzegovina
+BG,Bulgarie,Bulgaria
+HR,Croatie,Croatia
+CY,Chypre,Cyprus
+CZ,République Tchèque,Czech Republic
+DK,Danemark,Denmark
+EE,Estonie,Estonia
+FI,Finlande,Finland
+FR,France,France
+DE,Allemagne,Germany
+GR,Grèce,Greece
+HU,Hongrie,Hungary
+IS,Islande,Iceland
+IE,Irlande,Ireland
+IT,Italie,Italy
+LV,Lettonie,Latvia
+LT,Lituanie,Lithuania
+LU,Luxembourg,Luxembourg
+MK,Macédoine,Macedonia
+MT,Malte,Malta
+ME,Monténégro,Montenegro
+NL,Pays-Bas,Netherlands
+NO,Norvège,Norway
+PL,Pologne,Poland
+PT,Portugal,Portugal
+RO,Roumanie,Romania
+RU,Russie,Russia
+RS,Serbie,Serbia
+SK,Slovaquie,Slovakia
+SI,Slovénie,Slovenia
+ES,Espagne,Spain
+SE,Suède,Sweden
+CH,Suisse,Switzerland
+TR,Turquie,Turkey
+UA,Ukraine,Ukraine
+GB,Royaume-Uni,United Kingdom
+BS,Bahamas,Bahamas
+BB,Barbade,Barbados
+BZ,Belize,Belize
+CA,Canada,Canada
+CR,Costa Rica,Costa Rica
+CU,Cuba,Cuba
+DO,République Dominicaine,Dominican Republic
+SV,El Salvador,El Salvador
+GT,Guatemala,Guatemala
+HT,Haïti,Haiti
+HN,Honduras,Honduras
+JM,Jamaïque,Jamaica
+MX,Mexique,Mexico
+NI,Nicaragua,Nicaragua
+PA,Panama,Panama
+PR,Puerto Rico,Puerto Rico
+US,États-Unis,United States
+NZ,Nouvelle-Zélande,New Zealand
+AU,Australie,Australia
+JP,Japon,Japan
+
+<it,Italiano,Italian>
+AL,Albania,Albania
+AD,Andorra,Andorra
+AT,Austria,Austria
+BY,Bielorussia,Belarus
+BE,Belgio,Belgium
+BA,Bosnia-Erzegovina,Bosnia and Herzegovina
+BG,Bulgaria,Bulgaria
+HR,Croazia,Croatia
+CY,Cipro,Cyprus
+CZ,Repubblica Ceca,Czech Republic
+DK,Danimarca,Denmark
+EE,Estonia,Estonia
+FI,Finlandia,Finland
+FR,Francia,France
+DE,Germania,Germany
+GR,Grecia,Greece
+HU,Ungheria,Hungary
+IS,Islanda,Iceland
+IE,Irlanda,Ireland
+IT,Italia,Italy
+LV,Lettonia,Latvia
+LT,Lituania,Lithuania
+LU,Lussemburgo,Luxembourg
+MK,Macedonia,Macedonia
+MT,Malta,Malta
+ME,Montenegro,Montenegro
+NL,Paesi Bassi,Netherlands
+NO,Norvegia,Norway
+PL,Polonia,Poland
+PT,Portogallo,Portugal
+RO,Romania,Romania
+RU,Russia,Russia
+RS,Serbia,Serbia
+SK,Slovacchia,Slovakia
+SI,Slovenia,Slovenia
+ES,Spagna,Spain
+SE,Svezia,Sweden
+CH,Svizzera,Switzerland
+TR,Turchia,Turkey
+UA,Ucraina,Ukraine
+GB,Regno Unito,United Kingdom
+BS,Bahamas,Bahamas
+BB,Barbados,Barbados
+BZ,Belize,Belize
+CA,Canada,Canada
+CR,Costa Rica,Costa Rica
+CU,Cuba,Cuba
+DO,Repubblica Dominicana,Dominican Republic
+SV,El Salvador,El Salvador
+GT,Guatemala,Guatemala
+HT,Haiti,Haiti
+HN,Honduras,Honduras
+JM,Giamaica,Jamaica
+MX,Messico,Mexico
+NI,Nicaragua,Nicaragua
+PA,Panama,Panama
+PR,Puerto Rico,Puerto Rico
+US,Stati Uniti,United States
+NZ,Nuova Zelanda,New Zealand
+AU,Australia,Australia
+JP,Giappone,Japan
+
+<ja,日本,Japanese>
+AL,アルバニア,Albania
+AD,アンドラ,Andorra
+AT,オーストリア,Austria
+BY,ベラルーシ,Belarus
+BE,ベルギー,Belgium
+BA,ボスニアヘルツェゴビナ,Bosnia and Herzegovina
+BG,ブルガリア,Bulgaria
+HR,クロアチア,Croatia
+CY,キプロス,Cyprus
+CZ,チェコ共和国,Czech Republic
+DK,デンマーク,Denmark
+EE,エストニア,Estonia
+FI,フィンランド,Finland
+FR,フランス,France
+DE,ドイツ,Germany
+GR,ギリシャ,Greece
+HU,ハンガリー,Hungary
+IS,アイスランド,Iceland
+IE,アイルランド,Ireland
+IT,イタリア,Italy
+LV,ラトビア,Latvia
+LT,リトアニア,Lithuania
+LU,ルクセンブルグ,Luxembourg
+MK,マケドニア,Macedonia
+MT,マルタ,Malta
+ME,モンテネグロ,Montenegro
+NL,オランダ,Netherlands
+NO,ノルウェー,Norway
+PL,ポーランド,Poland
+PT,ポルトガル,Portugal
+RO,ルーマニア,Romania
+RU,ロシア,Russia
+RS,セルビア,Serbia
+SK,スロバキア,Slovakia
+SI,スロベニア,Slovenia
+ES,スペイン,Spain
+SE,スウェーデン,Sweden
+CH,スイス,Switzerland
+TR,トルコ,Turkey
+UA,ウクライナ,Ukraine
+GB,イギリス,United Kingdom
+BS,バハマ,Bahamas
+BB,バルバドス,Barbados
+BZ,ベリーズ,Belize
+CA,カナダ,Canada
+CR,コスタリカ,Costa Rica
+CU,キューバ,Cuba
+DO,ドミニカ共和国,Dominican Republic
+SV,エルサルバドル,El Salvador
+GT,グアテマラ,Guatemala
+HT,ハイチ,Haiti
+HN,ホンジュラス,Honduras
+JM,ジャマイカ,Jamaica
+MX,メキシコ,Mexico
+NI,ニカラグア,Nicaragua
+PA,パナマ,Panama
+PR,プエルトリコ,Puerto Rico
+US,アメリカ合衆国,United States
+NZ,ニュージーランド,New Zealand
+AU,オーストラリア,Australia
+JP,日本,Japan
