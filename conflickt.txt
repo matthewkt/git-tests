@@ -26,7 +26,7 @@ Payload {
     "december": 106.76959744321
   },
   
-  "myBogusSection1":[],
+  "myBogusSection2":[],
   "roofSections": [
     {
       "name": "1) West Roof",
