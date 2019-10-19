@@ -1,0 +1,64 @@
+"Attempting to publish. UsernameId 6701, PublishType Proposal, ProjectId 6054581, Variant cob14, 
+Payload {
+  "publishType": "Proposal",
+  "electricalPanelCapacity": 100,
+  "roofConstruction": "Standard\/Pitched",
+  "roofType": "Composition Shingle",
+  "systemConstraint": "Customer Usage Met",
+  "addedCapacity": 0,
+  "isESCRequired": "No",
+  "cadCompletedBy": "203152",
+  "cadCompletedDate": "2019-04-10T21:05:39Z",
+  "totalSunhourDeficit": 0,
+  "designedSavings": 0,
+  "energyProduction": {
+    "january": 298.25683660586,
+    "february": 277.99257214672,
+    "march": 561.07596608377,
+    "april": 577.87977730848,
+    "may": 647.50269095493,
+    "june": 827.9116577098,
+    "july": 758.76213720833,
+    "august": 630.17587619286,
+    "september": 570.51558968072,
+    "october": 391.47496704616,
+    "november": 246.18912842033,
+    "december": 106.76959744321
+  },
+  
+  "myBogusSection1":[],
+  "roofSections": [
+    {
+      "name": "1) West Roof",
+      "roofType": "Composition Shingle",
+      "azimuth": 254.67366664354,
+      "tilt": 38,
+      "solmetricEstimate": 5894.5067968012,
+      "shadingLoss": 13,
+      "systemRating": 6615,
+      "sunHours": 0.89108190427834,
+      "moduleCount": 21,
+      "modules": [
+        {
+          "moduleRating": 315,
+          "isovaPartNumber": "JKS-MON-024619",
+          "partCount": 21
+        }
+      ]
+    }
+  ],
+  "systemConfiguration": {
+    "inverters": [
+      {
+        "isovaPartNumber": "SED-INV-020752",
+        "partCount": 1
+      }
+    ]
+  },
+  "hasStepbackTarget": true,
+  "hasSuneyeTarget": true,
+  "simulationType": "Remote",
+  "redesignResolution": "null",
+  "isUnoptimizedCompatible": true,
+  "totalShadingLoss": 12
+} 
